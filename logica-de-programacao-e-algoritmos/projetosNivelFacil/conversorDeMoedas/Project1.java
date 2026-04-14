@@ -18,7 +18,7 @@ System.out.println("Enter today's Dollar exchange rate:");
 
         double dollars = reais / exchange;
 
-System.out.printf("Value converted to dollars is: $ %.2f dollars%n", dollars);
+System.out.printf("Value converted to dollars is: $ %.2f dollars%n", dollars );
 
 
 
