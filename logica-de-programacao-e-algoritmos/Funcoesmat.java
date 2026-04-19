@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Funcoesmat {
     public static void main(String[] args) {
-        Locale setLocale =(Locale.US);
+        Locale.setDefault(Locale.US);
         Scanner sc = new Scanner (System.in);
 
         double a = 24.0;
