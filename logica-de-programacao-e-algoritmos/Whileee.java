@@ -12,5 +12,7 @@ public class Whileee {
             x = sc.nextInt();
         }
         System.out.println(soma);
+
+        sc.close();
     }
 }
