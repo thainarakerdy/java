@@ -15,5 +15,7 @@ public class Selecao1035 {
         } else {
             System.out.println("Valores nao aceitos");
         }
+
+        sc.close();
     }
 }

@@ -17,6 +17,8 @@ public class NomeEIdade {
         double ageMedia = (age1 + age2) /2.0;
 
         System.out.printf("The age media of %s and %s is the %.1f years.", name1, name2, ageMedia);
+
+        sc.close();
     }
     
 }

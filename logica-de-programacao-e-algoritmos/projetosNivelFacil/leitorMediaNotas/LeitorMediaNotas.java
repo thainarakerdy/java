@@ -19,5 +19,6 @@ public class LeitorMediaNotas {
         if (resultado < 60 ) {
             System.out.printf("REPROVADO");
         }
+        sc.close();;
    }  
 }

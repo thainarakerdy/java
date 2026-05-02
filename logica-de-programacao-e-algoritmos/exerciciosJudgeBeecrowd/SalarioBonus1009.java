@@ -14,5 +14,7 @@ public class SalarioBonus1009 {
         double salarybonus = sales * 0.15 + salary;
 
         System.out.printf("TOTAL = R$ %.2f%n", salarybonus);
+
+        sc.close();
     }
 }
