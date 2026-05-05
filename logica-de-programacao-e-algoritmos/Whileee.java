@@ -6,7 +6,7 @@ public class Whileee {
 
         int x = sc.nextInt();
 
-        int soma = 0
+        int soma = 0;
         while (x != 0) {
             soma = soma + x;
             x = sc.nextInt();

@@ -1,3 +1,10 @@
 {
-    "java.debug.settings.console": "externalTerminal"
+    "java.debug.settings.console": "externalTerminal",
+    "java.project.sourcePaths": [
+        "logica-de-programacao-e-algoritmos/projetosNivelFacil/medidasDeUmTriangulo",
+        "logica-de-programacao-e-algoritmos/exerciciosJudgeBeecrowd",
+        "logica-de-programacao-e-algoritmos",
+        "fundamentos",
+        ""
+    ]
 }
